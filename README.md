@@ -7,7 +7,9 @@
 3. Compile TypeScript files with `npx tsc`.
 4. Start the server with `node dist/index.js`.
 
-![image](https://github.com/devkmaan/SlidelyTaskBackend/assets/140909236/842d1da9-2f55-45d1-ace5-be310b29076a)
+
+![Screenshot 2024-06-21 114746](https://github.com/devkmaan/SlidelyTaskBackend/assets/140909236/9a644a31-9590-438d-a283-ce1609e8e172)
+
 
 As we can see our server is running successfully on http://localhost:3000
 
