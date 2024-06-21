@@ -7,7 +7,7 @@
 3. Compile TypeScript files with `npx tsc`.
 4. Start the server with `node dist/index.js`.
 
-![Uploading image.png…]()
+![image](https://github.com/devkmaan/SlidelyTaskBackend/assets/140909236/842d1da9-2f55-45d1-ace5-be310b29076a)
 
 As we can see our server is running successfully on http://localhost:3000
 
